@@ -610,9 +610,9 @@ helped:11
 offer:11
 personality:11
 personality	international:9
-personality	alt:9
 personality	510:9
 personality	510	international:9
+personality	alt:9
 practitioner:11
 cold:11
 81:11
@@ -8520,17 +8520,16 @@ pay:12
 waste:12
 bring:12
 510:12
-510	international:9
+510	means:9
 510	action:9
 510	408:9
 510	408	action:9
+510	international:9
 510	online:9
 510	online	action:9
 510	online	408:9
 action	510	online	408:9
-510	means:9
 dying:12
-dying	means:9
 dying	guest:9
 dying	408:9
 dying	408	guest:9
@@ -8546,6 +8545,7 @@ dying	9760	241:9
 guest	dying	9760	241:9
 408	dying	9760	241:9
 guest	408	dying	9760	241:9
+dying	means:9
 fred:12
 fred	means:9
 fred	action:9
@@ -8796,6 +8796,7 @@ absurd	wishes	claire	eau	whoever	philosopher:11
 patently	wishes	claire	eau	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	whoever	philosopher:11
 wi:12
+wi	wisconsin:11
 wi	absurd:11
 wi	absurd	wisconsin:10
 wi	patently:11
@@ -9050,7 +9051,6 @@ absurd	patently	claire	eau	wi	whoever	philosopher:11
 absurd	wishes	claire	eau	wi	whoever	philosopher:11
 patently	wishes	claire	eau	wi	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	wi	whoever	philosopher:11
-wi	wisconsin:11
 gives:12
 reasonable:12
 att:12
@@ -9170,6 +9170,7 @@ letter:13
 meal:13
 al:13
 claire:13
+claire	wisconsin:11
 claire	absurd:11
 claire	absurd	wisconsin:10
 claire	patently:11
@@ -9184,7 +9185,6 @@ absurd	patently	claire	wishes	wisconsin:10
 claire	wishes	absurd:11
 claire	wishes	patently:11
 absurd	claire	wishes	patently:11
-claire	wisconsin:11
 beginning:13
 iv:13
 quacks:13
