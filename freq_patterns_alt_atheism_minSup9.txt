@@ -2670,8 +2670,8 @@ type:14
 basic:14
 absolutely:14
 effort:14
-effort	dan:9
 effort	became:9
+effort	dan:9
 definitions:15
 knowing:15
 shows:15
